@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# pnpm stores
+.pnpm-store/
+.pnpm/
+
+# Docker secrets (don't commit real env files)
+Openclaw-Docker/.env
+
+# Logs
+logs/
+*.log
+
+# Temp files
+temp_insert.mjs
+temp_insert.js
+.DS_Store
+
+# Session/Instance specific files
+.claude/
