@@ -1,0 +1,3 @@
+[submodule "SafeWorkspace/claw-empire"]
+	path = SafeWorkspace/claw-empire
+	url = https://github.com/GreenSheep01201/claw-empire.git
